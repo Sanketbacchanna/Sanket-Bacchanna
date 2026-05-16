@@ -1,13 +1,13 @@
 # Hi 👋, I'm Sanket Bacchanna
 
-<h3 align="center">🚀 Full Stack Developer | Python Developer | Real-Time App Builder</h3>
+<h3 align="center">🚀 Full Stack Developer | Real-Time App Builder</h3>
 
 ---
 
 # 💫 About Me
 - 🔭 Currently working on Real-Time Applications
 - 🌱 Learning Advanced Full Stack Development
-- 💬 Ask me about HTML, CSS, JavaScript, Node.js, Flask & MySQL
+- 💬 Ask me about HTML, CSS, JavaScript, Node.js & MySQL
 - ⚡ Passionate about building useful web applications
 
 ---
@@ -15,7 +15,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,flask,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -40,9 +40,6 @@ Chat application with emojis, image uploads, and auto responses.
 
 ## 📹 WebRTC Video Call App
 Video calling app supporting desktop and mobile connection.
-
-## 📊 Sales Data Analytics Dashboard
-Analytics dashboard using Flask, Pandas, and Chart.js.
 
 ---
 
