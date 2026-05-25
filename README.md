@@ -121,4 +121,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0077ff&height=120&section=footer"/>
 </p>
-```
