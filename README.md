@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Bacchanna</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Cybersecurity Enthusiast | Real-Time App Builder
+🚀 Full Stack Developer | Real-Time App Builder
 </h3>
 
 <p align="center">
@@ -22,11 +22,11 @@
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently Building **Real-Time Web Applications**
-- 🌱 Learning **Advanced Full Stack Development & Cybersecurity**
+- 🌱 Learning **Advanced Full Stack Development**
 - 💬 Ask Me About **HTML, CSS, JavaScript, Node.js, MySQL & WebRTC**
 - 🚀 Interested In **Real-Time Systems & Security Projects**
 - ⚡ Love Creating Useful & Creative Web Applications
-- 🎯 Goal: **Become a Full Stack & Cybersecurity Engineer**
+- 🎯 Goal: **Become a Full Stack Developer**
 
 <br><br>
 
