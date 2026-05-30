@@ -19,14 +19,27 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+MySQL+%7C+WebRTC;Real-Time+Application+Developer;"/>
+</p>
 
-- 🔭 Currently Building **Real-Time Web Applications**
-- 🌱 Learning **Advanced Full Stack Development**
-- 💬 Ask Me About **HTML, CSS, JavaScript, Node.js, MySQL & WebRTC**
-- 🚀 Interested In **Real-Time Systems & Security Projects**
-- ⚡ Love Creating Useful & Creative Web Applications
-- 🎯 Goal: **Become a Full Stack Developer**
+- 🚀 Building Real-Time Web Applications
+- 🌱 Exploring Full Stack Development
+- 💬 Tech Stack: HTML, CSS, JavaScript, Node.js, MySQL, WebRTC
+- 🔐 Interested in Cybersecurity & Real-Time Systems
+- ⚡ Creating Fast, Scalable, and User-Friendly Applications
+- 🎯 Goal: Become a Professional Full Stack Developer
+
+<p align="left">
+<a href="www.linkedin.com/in/sanketbacchanna">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sanketbacchanna@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 
 <br><br>
 
