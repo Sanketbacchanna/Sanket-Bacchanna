@@ -19,6 +19,8 @@
 
 # 💫 About Me
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
+
 - 🚀 Building Real-Time Web Applications
 - 🌱 Exploring Full Stack Development
 - 💬 Tech Stack: HTML, CSS, JavaScript, Node.js, MySQL, WebRTC
